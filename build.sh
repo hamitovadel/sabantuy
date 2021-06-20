@@ -1,0 +1,1 @@
+gcloud --project pragmatic-will-317205 builds submit --tag gcr.io/pragmatic-will-317205/test_api
