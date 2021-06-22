@@ -1,5 +1,3 @@
-# Akvelon Test task
-
 ## INTRO
 This service was created by Flask and deployed to GCP. Cloud SQL (PostgreSQL) is used as a database. The service endpoint is implemented with Cloud Run, allowing flexible handling of the workload. And also we can migrate this POC to any platform (Kubernetes)
 
